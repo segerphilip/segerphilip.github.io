@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/pipalo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://philipseger.com
+  * I am pipalo (https://keybase.io/pipalo) on keybase.
+  * I have a public key with fingerprint 1C7B DC2D EBF0 ACCC 2FAC  DD67 4C0B 64D4 BA97 DB74
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101c8f43a494db8639dbacc3d55fb996fe377c2fe8376dfdc16d8da82a0a2dc62f70a",
+            "fingerprint": "1c7bdc2debf0accc2facdd674c0b64d4ba97db74",
+            "host": "keybase.io",
+            "key_id": "4c0b64d4ba97db74",
+            "kid": "0101c8f43a494db8639dbacc3d55fb996fe377c2fe8376dfdc16d8da82a0a2dc62f70a",
+            "uid": "dddc232589f721aebc1a9f333f53ad19",
+            "username": "pipalo"
+        },
+        "service": {
+            "hostname": "philipseger.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1473623212,
+    "expire_in": 157680000,
+    "prev": "982890e2e1e11b993aacc872ebf308a969826728e0ba9d6589782cbe115fb7a6",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIrAnicrVJbSBRRGF4zzTYl7YLaSzVGlG4yM2d2LmspFF0g08hIMmk7c84Zd3J3
+Z9wdV00qU5GsJMpITJCiCEyRsoySjIzKoBeLFivofvFBekgICyk6I/nWY+flcP7/
++77z/d85D5JiHc4YcDmvEXzpL4p5MtRW6SiO3uipZVQD1zCeWqacTG/Ej0nY8pbr
+mPEwLMdySNYEAAVFwKosAgWrECGA3W5NVRRRI0CSEK8RGUgi1jDiRCxjKPOQhTxG
+Iq9JLGRcjKYHy0jIDOlBi8pySFIx4jFRNZaqUT5EGIuSgFhVFLCgQkXCqiRQos8I
+2wxqToVhkq0btEYP3ml7/8D/Z9+V03IYU7eAd8uKJvEcJCrioKIBADQ3gJhTbGCY
+hIIwQCja1E3oN5iDLobWIjoidqz2HDN9n+7XzTChgWQjI0DJZsiwDGT4adNnWabH
+5lo1pg2uIqr3r4xX1YOY5kgJERIK60aQ8XAUiSzd1uUECYjUJce7GFJt6iHi1W2E
+WxJlli77GhKhkorMywpLeMIRjqNhAEiTkSWevgZgZaiIFCBKvExYmisW6dSSzCOV
+gml2EhQZe7CKoMF4JGoTllHJsF4WhFZliDAH798rne2IcTri42bZ/8vhnJs88+sy
+lARHw+PTJ8YCD1OuxR5vHGypHGptjLp3L3Jd/Hm5eL4vq2Tlu/qNWbWZK0rGJtZO
+Lr5wYNjZ92bD4MCEvPhualP+qZ4fded6y82h9TsvrSmu/p2Ss3dOyIgfiXt30omu
+53d82FVwa2uz9aHofsKve98KM988y2mqT69KT2wGeVOvx192rMtdPbZpYvnTQ7c9
+Q2614ejo5vZAsl5/dPztmQFHhftI4bEt49FlNb3BThB7dsSTm+Wd7LNedGut29Pb
+I0Lt+Kp5LakZU+8TKx4XdDo/LbhTlx9Z8mpHzv7vw/7RyT3daR8zPpOFy/c9P+/r
+6k9KCBx4dKVr6c1t0a9pbVcjTy6WThwu/QNQ3UPk
+=ZrsU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pipalo
+
+==================================================================
+
