@@ -6,18 +6,16 @@ I hereby claim:
 
   * I am an admin of http://philipseger.com
   * I am pipalo (https://keybase.io/pipalo) on keybase.
-  * I have a public key with fingerprint 1C7B DC2D EBF0 ACCC 2FAC  DD67 4C0B 64D4 BA97 DB74
+  * I have a public key ASBfTp5KAK4Npu6lPGfqJ8VNwM3RqidPTNwsKB9KUwOd5wo
 
 To do so, I am signing this object:
 
 {
     "body": {
         "key": {
-            "eldest_kid": "0101c8f43a494db8639dbacc3d55fb996fe377c2fe8376dfdc16d8da82a0a2dc62f70a",
-            "fingerprint": "1c7bdc2debf0accc2facdd674c0b64d4ba97db74",
+            "eldest_kid": "01205f4e9e4a00ae0da6eea53c67ea27c54dc0cdd1aa274f4cdc2c281f4a53039de70a",
             "host": "keybase.io",
-            "key_id": "4c0b64d4ba97db74",
-            "kid": "0101c8f43a494db8639dbacc3d55fb996fe377c2fe8376dfdc16d8da82a0a2dc62f70a",
+            "kid": "01205f4e9e4a00ae0da6eea53c67ea27c54dc0cdd1aa274f4cdc2c281f4a53039de70a",
             "uid": "dddc232589f721aebc1a9f333f53ad19",
             "username": "pipalo"
         },
@@ -28,37 +26,25 @@ To do so, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1473623212,
-    "expire_in": 157680000,
-    "prev": "982890e2e1e11b993aacc872ebf308a969826728e0ba9d6589782cbe115fb7a6",
-    "seqno": 7,
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1473812816,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1473812658,
+        "hash": "db95d1b253680fbc37478d60e1f63638822e3b75bad232f77bb5654f51bb77d9db3ded8a4b9fce991bf4e413a47df9ac66e86b0fa1c66cc87c62e56025b12aef",
+        "seqno": 634629
+    },
+    "prev": "adfa37f08fc181c7add050c0ecf05a887d5551ef6fd861a64b7349db18419d21",
+    "seqno": 19,
     "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.56
-Comment: https://keybase.io/crypto
-
-yMIrAnicrVJbSBRRGF4zzTYl7YLaSzVGlG4yM2d2LmspFF0g08hIMmk7c84Zd3J3
-Z9wdV00qU5GsJMpITJCiCEyRsoySjIzKoBeLFivofvFBekgICyk6I/nWY+flcP7/
-+77z/d85D5JiHc4YcDmvEXzpL4p5MtRW6SiO3uipZVQD1zCeWqacTG/Ej0nY8pbr
-mPEwLMdySNYEAAVFwKosAgWrECGA3W5NVRRRI0CSEK8RGUgi1jDiRCxjKPOQhTxG
-Iq9JLGRcjKYHy0jIDOlBi8pySFIx4jFRNZaqUT5EGIuSgFhVFLCgQkXCqiRQos8I
-2wxqToVhkq0btEYP3ml7/8D/Z9+V03IYU7eAd8uKJvEcJCrioKIBADQ3gJhTbGCY
-hIIwQCja1E3oN5iDLobWIjoidqz2HDN9n+7XzTChgWQjI0DJZsiwDGT4adNnWabH
-5lo1pg2uIqr3r4xX1YOY5kgJERIK60aQ8XAUiSzd1uUECYjUJce7GFJt6iHi1W2E
-WxJlli77GhKhkorMywpLeMIRjqNhAEiTkSWevgZgZaiIFCBKvExYmisW6dSSzCOV
-gml2EhQZe7CKoMF4JGoTllHJsF4WhFZliDAH798rne2IcTri42bZ/8vhnJs88+sy
-lARHw+PTJ8YCD1OuxR5vHGypHGptjLp3L3Jd/Hm5eL4vq2Tlu/qNWbWZK0rGJtZO
-Lr5wYNjZ92bD4MCEvPhualP+qZ4fded6y82h9TsvrSmu/p2Ss3dOyIgfiXt30omu
-53d82FVwa2uz9aHofsKve98KM988y2mqT69KT2wGeVOvx192rMtdPbZpYvnTQ7c9
-Q2614ejo5vZAsl5/dPztmQFHhftI4bEt49FlNb3BThB7dsSTm+Wd7LNedGut29Pb
-I0Lt+Kp5LakZU+8TKx4XdDo/LbhTlx9Z8mpHzv7vw/7RyT3daR8zPpOFy/c9P+/r
-6k9KCBx4dKVr6c1t0a9pbVcjTy6WThwu/QNQ3UPk
-=ZrsU
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgX06eSgCuDabupTxn6ifFTcDN0aonT0zcLCgfSlMDnecKp3BheWxvYWTFAvV7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNWY0ZTllNGEwMGFlMGRhNmVlYTUzYzY3ZWEyN2M1NGRjMGNkZDFhYTI3NGY0Y2RjMmMyODFmNGE1MzAzOWRlNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNWY0ZTllNGEwMGFlMGRhNmVlYTUzYzY3ZWEyN2M1NGRjMGNkZDFhYTI3NGY0Y2RjMmMyODFmNGE1MzAzOWRlNzBhIiwidWlkIjoiZGRkYzIzMjU4OWY3MjFhZWJjMWE5ZjMzM2Y1M2FkMTkiLCJ1c2VybmFtZSI6InBpcGFsbyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoicGhpbGlwc2VnZXIuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNyJ9LCJjdGltZSI6MTQ3MzgxMjgxNiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDczODEyNjU4LCJoYXNoIjoiZGI5NWQxYjI1MzY4MGZiYzM3NDc4ZDYwZTFmNjM2Mzg4MjJlM2I3NWJhZDIzMmY3N2JiNTY1NGY1MWJiNzdkOWRiM2RlZDhhNGI5ZmNlOTkxYmY0ZTQxM2E0N2RmOWFjNjZlODZiMGZhMWM2NmNjODdjNjJlNTYwMjViMTJhZWYiLCJzZXFubyI6NjM0NjI5fSwicHJldiI6ImFkZmEzN2YwOGZjMTgxYzdhZGQwNTBjMGVjZjA1YTg4N2Q1NTUxZWY2ZmQ4NjFhNjRiNzM0OWRiMTg0MTlkMjEiLCJzZXFubyI6MTksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA0oES8tlZBfRt5HSoAbh4D4ithv/onfEq+6G5y6IzNCkmV09m4A5nLbvRy2JALHJYb1FCwAviyjpv1unjePQCCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIO9cGj0kl1B2YPECcP/yMv6B+7eYd8sKHdbrMip+eEcCo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -66,4 +52,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/pipalo
 
 ==================================================================
-
