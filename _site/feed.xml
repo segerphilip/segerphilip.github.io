@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philip Seger</title>
+    <description>Personal website for Philip Seger.
+</description>
+    <link>https://philipseger.com/</link>
+    <atom:link href="https://philipseger.com//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 02 May 2021 19:41:47 -0400</pubDate>
+    <lastBuildDate>Sun, 02 May 2021 19:41:47 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>We'll be right back!</title>
+        <description>&lt;p&gt;This is all a WIP, but until it is finished why don’t you have a look at what I’ve been up to in the meantime.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://philipseger.com//assets/PhilipSegerResume.pdf&quot;&gt;Resume&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Mar 2020 00:00:00 -0500</pubDate>
+        <link>https://philipseger.com//2020/03/03/goteborg-back-soon/</link>
+        <guid isPermaLink="true">https://philipseger.com//2020/03/03/goteborg-back-soon/</guid>
+        
+        <category>work in progress</category>
+        
+        <category>personal website</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
